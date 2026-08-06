@@ -57,26 +57,26 @@
 
 <div align="center">
 
-  <!-- GITHUB TROPHIES -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sharry-0-2&theme=synthwave&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+  <!-- GITHUB ACTIVITY GRAPH -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharry-0-2&theme=react-dark&bg_color=0D1117&color=00F0FF&line=FF007F&point=00F0FF&area=true&hide_border=false" alt="GitHub Activity Graph" width="100%" />
   </a>
 
   <br/><br/>
 
   <!-- STATS & TOP LANGUAGES -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharry-0-2&show_icons=true&theme=synthwave&bg_color=0D1117&title_color=00F0FF&text_color=E0E6ED&border_color=00F0FF&icon_color=FF007F" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=sharry-0-2&show_icons=true&theme=synthwave&bg_color=0D1117&title_color=00F0FF&text_color=E0E6ED&border_color=00F0FF&icon_color=FF007F" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharry-0-2&layout=compact&theme=synthwave&bg_color=0D1117&title_color=00F0FF&text_color=E0E6ED&border_color=00F0FF" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharry-0-2&layout=compact&theme=synthwave&bg_color=0D1117&title_color=00F0FF&text_color=E0E6ED&border_color=00F0FF" alt="Top Languages" />
   </a>
 
   <br/><br/>
 
   <!-- STREAK STATS -->
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=sharry-0-2&theme=synthwave&background=0D1117&border=00F0FF&stroke=00F0FF&alarm=FF007F" alt="GitHub Streak" />
+    <img height="155em" src="https://streak-stats.demolab.com/?user=sharry-0-2&theme=synthwave&background=0D1117&border=00F0FF&stroke=00F0FF&alarm=FF007F" alt="GitHub Streak" />
   </a>
 
 </div>
