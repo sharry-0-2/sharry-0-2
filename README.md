@@ -2,7 +2,7 @@
 
   <!-- TYPING HEADER BANNER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=600&height=70&lines=System.out.println(%22Hello%2C+World!%22);;Backend+%26+Systems+Engineer;Building+High-Performance+Distributed+Systems;Optimizing+Low-Latency+Architectures;Welcome+to+my+Digital+Workspace" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&random=false&width=700&height=65&lines=Hello%2C+World!+I'm+Tushar;Backend+%26+Systems+Engineer;Building+Distributed+Systems;Optimizing+Low-Latency+Architectures;Welcome+to+my+Digital+Workspace" alt="Typing Header" />
   </a>
 
   <br />
