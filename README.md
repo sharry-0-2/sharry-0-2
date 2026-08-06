@@ -20,7 +20,7 @@
 
 ### ⚡ `whoami` — System Overview
 
-```gcode
+```text
 -----------------------------------------------------------------------------------
 > USERNAME : Tushar
 > ROLE     : Backend & Systems Engineer
